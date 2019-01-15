@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abd3d8e4-2932-49d8-bd7f-1e71deeecbb6" name="Default Changelist" comment="" />
+    <list default="true" id="3c9b5910-b701-4875-a7d7-b7d1b6d98223" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leap/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,36 +12,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/leap$Unittests_in_leap_test_py.coverage" NAME="Unittests in leap_test.py Coverage Results" MODIFIED="1547387308047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/protein_translation$Unittests_in_protein_translation_test_py.coverage" NAME="Unittests in protein_translation_test.py Coverage Results" MODIFIED="1547579896798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leap.py">
+        <entry file="file://$PROJECT_DIR$/protein_translation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="465">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leap_test.py">
+        <entry file="file://$PROJECT_DIR$/protein_translation_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -51,7 +44,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leap.py" />
+        <option value="$PROJECT_DIR$/protein_translation.py" />
       </list>
     </option>
   </component>
@@ -66,18 +59,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="leap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leap" type="462c0819:PsiDirectoryNode" />
+              <item name="protein-translation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="protein-translation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -99,8 +92,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Unittests in leap_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="leap" />
+    <configuration name="Unittests in protein_translation_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="protein-translation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -110,13 +103,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/leap_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/protein_translation_test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in leap_test.py" />
+        <item itemvalue="Python tests.Unittests in protein_translation_test.py" />
       </list>
     </recent_temporary>
   </component>
@@ -125,30 +118,56 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="abd3d8e4-2932-49d8-bd7f-1e71deeecbb6" name="Default Changelist" comment="" />
-      <created>1547387163990</created>
+      <changelist id="3c9b5910-b701-4875-a7d7-b7d1b6d98223" name="Default Changelist" comment="" />
+      <created>1547578699624</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547387163990</updated>
-      <workItem from="1547387165152" duration="293000" />
-      <workItem from="1547578684036" duration="16000" />
+      <updated>1547578699624</updated>
+      <workItem from="1547578700761" duration="1224000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_leap_test_py - 2019.01.13 at 14h 48m 28s.xml">
-      <configuration name="Unittests in leap_test.py" configurationId="tests" />
+    <history-entry file="Unittests_in_protein_translation_test_py - 2019.01.15 at 20h 12m 57s.xml">
+      <configuration name="Unittests in protein_translation_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_protein_translation_test_py - 2019.01.15 at 20h 13m 22s.xml">
+      <configuration name="Unittests in protein_translation_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_protein_translation_test_py - 2019.01.15 at 20h 13m 33s.xml">
+      <configuration name="Unittests in protein_translation_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_protein_translation_test_py - 2019.01.15 at 20h 15m 56s.xml">
+      <configuration name="Unittests in protein_translation_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_protein_translation_test_py - 2019.01.15 at 20h 16m 06s.xml">
+      <configuration name="Unittests in protein_translation_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_protein_translation_test_py - 2019.01.15 at 20h 17m 07s.xml">
+      <configuration name="Unittests in protein_translation_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_protein_translation_test_py - 2019.01.15 at 20h 17m 53s.xml">
+      <configuration name="Unittests in protein_translation_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_protein_translation_test_py - 2019.01.15 at 20h 18m 17s.xml">
+      <configuration name="Unittests in protein_translation_test.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="309000" />
+    <option name="totallyTimeSpent" value="1224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
@@ -156,34 +175,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leap_test.py">
+    <entry file="file://$PROJECT_DIR$/protein_translation_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -192,11 +195,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/protein_translation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
