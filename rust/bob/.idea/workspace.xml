@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60f5e425-6b10-4bd3-9fad-3fd168f934ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../python/acronym/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/acronym/.idea/acronym.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/acronym/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/acronym/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/acronym/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/acronym/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/acronym/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/acronym/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/acronym/acronym.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/acronym/acronym_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/armstrong-numbers/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/armstrong-numbers/.idea/armstrong-numbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/armstrong-numbers/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/armstrong-numbers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/armstrong-numbers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/armstrong-numbers/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/armstrong-numbers/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/armstrong-numbers/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/armstrong-numbers/armstrong_numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/armstrong-numbers/armstrong_numbers_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/hello-world/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/hello-world/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/hello-world/.idea/hello-world.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/hello-world/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/hello-world/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/hello-world/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/hello-world/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/hello-world/hello_world.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/hello-world/hello_world_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/largest-series-product/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/largest-series-product/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/largest-series-product/.idea/largest-series-product.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/largest-series-product/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/largest-series-product/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/largest-series-product/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/largest-series-product/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/largest-series-product/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/largest-series-product/largest_series_product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/largest-series-product/largest_series_product_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leap/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leap/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leap/.idea/leap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leap/leap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leap/leap_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pangram/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pangram/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pangram/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pangram/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pangram/.idea/pangram.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pangram/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pangram/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pangram/pangram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pangram/pangram_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/protein-translation/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/protein-translation/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/protein-translation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/protein-translation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/protein-translation/.idea/protein-translation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/protein-translation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/protein-translation/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/protein-translation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/protein-translation/protein_translation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/protein-translation/protein_translation_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/reverse-string/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/reverse-string/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/reverse-string/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/reverse-string/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/reverse-string/.idea/reverse-string.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/reverse-string/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/reverse-string/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/reverse-string/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/reverse-string/reverse_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/reverse-string/reverse_string_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/robot-name/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/robot-name/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/robot-name/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/robot-name/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/robot-name/.idea/robot-name.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/robot-name/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/robot-name/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/robot-name/robot_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/robot-name/robot_name_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/two-fer/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/two-fer/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/two-fer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/two-fer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/two-fer/.idea/two-fer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/two-fer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/two-fer/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/two-fer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/two-fer/two_fer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/two-fer/two_fer_test.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="9mzsfiro" />
+  </component>
+  <component name="ProjectId" id="1hKEYykBLlW4ybtzqtdpAa4knkk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60f5e425-6b10-4bd3-9fad-3fd168f934ca" name="Default Changelist" comment="" />
+      <created>1599751434374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599751434374</updated>
+      <workItem from="1599751435406" duration="1533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
