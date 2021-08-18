@@ -1,5 +1,6 @@
 import re
 
+
 def abbreviate(words):
     # delete special characters in the string
     words = re.sub(r"[^a-zA-Z0-9']+", ' ', words)

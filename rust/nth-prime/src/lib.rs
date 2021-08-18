@@ -13,10 +13,9 @@ pub fn nth(n: u32) -> u32 {
         loop {
             number += 1;
             if is_prime(number) {
-                break
+                break;
             }
         }
     }
     return number;
 }
-

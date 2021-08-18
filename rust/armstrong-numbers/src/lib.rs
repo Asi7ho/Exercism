@@ -7,7 +7,7 @@ pub fn is_armstrong_number(num: u32) -> bool {
         s += n.pow(length_vec);
     }
 
-    return s == num
+    return s == num;
 }
 
 pub fn number_to_vec(n: u32) -> Vec<u32> {

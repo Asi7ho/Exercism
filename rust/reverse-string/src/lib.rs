@@ -5,5 +5,5 @@ pub fn reverse(input: &str) -> String {
     // return input.chars().rev().collect();
 
     // Global solution
-    return input.graphemes(true).rev().collect()
+    return input.graphemes(true).rev().collect();
 }
